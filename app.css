@@ -42,7 +42,7 @@ body {
 }
 
 .nav-pills > .nav-item > .active{
-    color: white;
+    color: white !important;
     background-color: #FF8FB1 !important;
 }
 
