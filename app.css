@@ -1,0 +1,51 @@
+body {
+    /* font-family: 'Open Sans'; */
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Roboto Slab', sans-serif; */
+    font-family: 'SUIT Variable', sans-serif;
+}
+
+#covertext {
+    z-index:1;
+    color: white;
+    top: 0px;
+    left: 0px;
+    font-weight: 800;
+}
+
+#navbar-example2 {
+    font-weight: 800;
+}
+
+#introduction {
+    background-color: #FF8FB1
+}
+
+#scrollspyHeading1 {
+    background-color: #FF8FB1;
+    color: #2E0249;
+}
+
+#scrollspyHeading2 {
+    background-color: #80489C;
+    color: #FCE2DB;
+}
+
+#scrollspyHeading3 {
+    background-color: #432C7A;
+    color: #FCE2DB;
+}
+
+#scrollspyHeading4 {
+    background-color: #FCE2DB;
+    color: #432C7A;
+}
+
+.nav-pills > .nav-item > .active{
+    color: white;
+    background-color: #FF8FB1 !important;
+}
+
+.nav-pills > .nav-item > a {
+    color: #FF8FB1 !important;
+}
